@@ -1,5 +1,4 @@
 # Ex-1 IMPLEMENTATION-OF-SYMBOL-TABLE
-# Register Number : 212223230231
 # Date : 15/04/2025
 # AIM :
 ## To write a C program to implement a symbol table.
@@ -13,7 +12,9 @@
 7.	To reach a variable, enter the variable to be searched and the symbol table has been checked for the corresponding variable, the variable along with its address is displayed as a result.
 8.	Stop the program. 
 # PROGRAM
-```
+### DEVELOPED BY : THARUN V K
+### REG NO : 212223230231
+```c
 #include<stdio.h>
 #include<ctype.h>
 #include<string.h>
